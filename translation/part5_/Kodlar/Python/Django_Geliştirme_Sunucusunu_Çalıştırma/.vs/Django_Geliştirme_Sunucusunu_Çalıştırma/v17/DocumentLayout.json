@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Berk\\source\\repos\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CDC1EE2-1B37-4132-B1FA-6D68604B525B}|Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.pyproj|C:\\Users\\Berk\\source\\repos\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{5CDC1EE2-1B37-4132-B1FA-6D68604B525B}|Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.pyproj|solutionrelative:Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py",
+              "DocumentMoniker": "C:\\Users\\Berk\\source\\repos\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py",
+              "RelativeDocumentMoniker": "Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py",
+              "ToolTip": "C:\\Users\\Berk\\source\\repos\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py",
+              "RelativeToolTip": "Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma\\Django_Geli\u015Ftirme_Sunucusunu_\u00C7al\u0131\u015Ft\u0131rma.py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-02-26T15:03:51.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
